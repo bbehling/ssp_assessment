@@ -1,0 +1,17 @@
+.dataContainer {
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.dataObject {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.normal {
+  font-weight: normal;
+}
